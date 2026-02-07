@@ -1,8 +1,10 @@
 # 💫 About Me:
 🚀 Working on Machine Learning  
-📊 Learning data-driven decision making  
-🧠 Curious about AI & real-world applications
-🌐 **Portfolio:** https://shreyasbandekar.vercel.app 
+📊 Exploring data-driven decision making  
+🧠 Curious about AI and real-world applications  
+
+🌐 **Portfolio:** https://shreyasbandekar.vercel.app
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-bandekar-3993172a2)
