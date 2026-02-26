@@ -1,4 +1,4 @@
-Hey, I'm Shreyas Bandekar
+## Hey, I'm Shreyas
 
 🌐 **Portfolio:** https://shreyasbandekar.vercel.app
 
